@@ -1,0 +1,71 @@
+﻿.roundedges
+{
+    border-radius:10px;
+}
+.yellowbackground {
+    background-color:#FFFF99;
+    padding: 6px;
+}
+.redbackground {
+    background-color:#FF8C8C;
+    padding: 6px;
+}
+.greenbackground {
+    background-color:#A9FD97;
+    padding: 6px;
+}
+.details {
+    padding:7px 7px;
+    background:#A9A9A9;
+    color:#fff!important;
+    font-size:small!important;
+
+}
+.avatar {
+    height:115px;
+    position:relative;
+}
+.links {
+    color: #00b4c9;
+    font-size: 14px;
+    margin: 0 2px;
+    font-weight: 600;
+}
+.user-email {
+    color: #00b4c9;
+}
+.workflow-details-info {
+    border-style:none!important;
+}
+.k-detail-cell .k-tabstrip .k-content {
+    padding: 0.2em;
+}
+.workflow-details ul
+{
+    list-style:none;
+    font-style:italic;
+    margin: 15px;
+    padding: 0;
+}
+.workflow-details ul li
+{
+    margin: 0;
+    line-height: 1.7em;
+    text-transform: uppercase;
+}
+
+.workflow-details label
+{
+    width:150px;
+    padding-right: 10px;
+    text-align: left;
+    font-style:normal;
+    font-weight:bold;
+}
+.tabborder {
+    border-color: #CCC!important;
+}
+
+.wrap {
+    height:155px;
+}
